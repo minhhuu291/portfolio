@@ -916,6 +916,7 @@ button:focus {
 	display: inline;
 	float: left;
 	width: 100%;
+	padding: 100px 0;
 }
 
 .mu-contact-area {
@@ -968,6 +969,7 @@ button:focus {
 
 .mu-contact-top-single p{
 	margin-bottom: 0;
+	font-size: 20px;
 }
 
 
